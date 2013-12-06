@@ -4,7 +4,7 @@
 	"icons": {
 		"128": "/icon.png"
 	},
-	"launch_path": "http://pchangbin.github.io/WebRTC/rtcpeerconnection/index.html",
+	"launch_path": "/index.html",
 	"developer" : {
 		"name" : "Changbin Park",
 		"url" : "https://github.com/pchangbin/simpl"
