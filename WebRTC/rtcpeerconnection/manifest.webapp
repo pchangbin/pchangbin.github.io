@@ -1,12 +1,12 @@
 {
-	"name": "RTCPeerConnection",
-	"description": "WebRTC test - RTCPeerConnection",
-	"icons": {
-		"128": "/icon.png"
-	},
-	"launch_path": "/index.html",
-	"developer" : {
-		"name" : "Changbin Park",
-		"url" : "https://github.com/pchangbin/simpl"
-	}
+  "name": "RTCPeerConnection",
+  "description": "WebRTC test - RTCPeerConnection",
+  "icons": {
+    "128": "/icon.png"
+  },
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Changbin Park",
+    "url": "https://github.com/pchangbin/simpl"
+  }
 }
