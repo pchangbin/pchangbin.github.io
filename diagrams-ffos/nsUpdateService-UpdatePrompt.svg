@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="14cm" height="12cm" viewBox="45 30 263 229" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="176.37,110.644 176.37,138.615 176.925,138.615 176.925,168.823 "/>
+    <polygon style="fill: #ffffff" points="184.37,110.644 176.37,94.6436 168.37,110.644 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="184.37,110.644 176.37,94.6436 168.37,110.644 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="101.795" y="31.4" width="149.15" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="101.795" y="31.4" width="149.15" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="176.37" y="47.4">&lt;&lt;interface&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="176.37" y="66.4">nsIUpdatePrompt</text>
+    <rect style="fill: #ffffff" x="101.795" y="75.4" width="149.15" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="101.795" y="75.4" width="149.15" height="8"/>
+    <rect style="fill: #ffffff" x="101.795" y="83.4" width="149.15" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="101.795" y="83.4" width="149.15" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #00ff00" x="46.5" y="169.829" width="260.85" height="72"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="46.5" y="169.829" width="260.85" height="72"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="176.925" y="185.829">&lt;&lt;b2g override&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="176.925" y="204.829">UpdatePrompt</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="176.925" y="220.329">@mozilla.org/updates/update-prompt;1</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="176.925" y="234.329">{88b3eb21-d072-4e3b-886d-f89d8c49fe59}</text>
+    <rect style="fill: #00ff00" x="46.5" y="241.829" width="260.85" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="46.5" y="241.829" width="260.85" height="8"/>
+    <rect style="fill: #00ff00" x="46.5" y="249.829" width="260.85" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="46.5" y="249.829" width="260.85" height="8"/>
+  </g>
+</svg>

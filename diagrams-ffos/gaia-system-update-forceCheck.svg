@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="119cm" height="38cm" viewBox="1250 6969 2377 748" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="1251.81" y="6990.43" width="2374.31" height="725.654"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1251.81" y="6990.43" width="2374.31" height="725.654"/>
+    <rect style="fill: #ffffff" x="1251.81" y="6970.43" width="81" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1251.81" y="6970.43" width="81" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1253.81" y="6985.43">System App</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1535.66" y="7187.76" width="433.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1535.66" y="7187.76" width="433.5" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1752.41" y="7206.76">UpdateManager</text>
+    <rect style="fill: #ffffff" x="1535.66" y="7215.76" width="433.5" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1535.66" y="7215.76" width="433.5" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1538.66" y="7229.76">+_mgmt: mozIDOMApplicationMgmt = navigator.mozApps.mgmt</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1538.66" y="7245.76">+updatableApps: Array</text>
+    <rect style="fill: #ffffff" x="1535.66" y="7251.76" width="433.5" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1535.66" y="7251.76" width="433.5" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="2288.91" y="7115.71" width="325.7" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2288.91" y="7115.71" width="325.7" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="2451.76" y="7131.71">&lt;&lt;Webapps.jsm&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="2451.76" y="7150.71">DOMApplicationRegistry</text>
+    <rect style="fill: #ffffff" x="2288.91" y="7159.71" width="325.7" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2288.91" y="7159.71" width="325.7" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="2291.91" y="7173.71">+webapps: Object from JSON = webapps.json</text>
+    <rect style="fill: #ffffff" x="2288.91" y="7179.71" width="325.7" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2288.91" y="7179.71" width="325.7" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2242.84,7170.07 2260.29,7170.07 2260.29,7169.71 2288.91,7169.71 "/>
+    <polygon style="fill: #ffffff" points="2217.67,7170.07 2231.67,7165.27 2245.67,7170.07 2231.67,7174.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2217.67,7170.07 2231.67,7165.27 2245.67,7170.07 2231.67,7174.87 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1847.52" y="7026.41" width="130.7" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1847.52" y="7026.41" width="130.7" height="36"/>
+    <rect style="fill: #ffffff" x="1839.52" y="7034.41" width="130.7" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1839.52" y="7034.41" width="130.7" height="36"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1904.87" y="7056.31">
+      <tspan x="1904.87" y="7056.31">manifest.webapp</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="1853.52" y1="7059.31" x2="1964.22" y2="7059.31"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1908.87,7096.59 1908.87,7170.07 2012.31,7170.07 "/>
+    <polygon style="fill: #ffffff" points="1908.87,7071.42 1913.67,7085.42 1908.87,7099.42 1904.07,7085.42 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1908.87,7071.42 1913.67,7085.42 1908.87,7099.42 1904.07,7085.42 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1960.59" y="7170.07">manifest</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1755.97" y1="7222.3" x2="1755.97" y2="7298.56"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1755.97" y1="7338.56" x2="1755.97" y2="7453.58"/>
+    <rect style="fill: #ffffff" x="1748.97" y="7298.56" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1748.97" y="7298.56" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1748.97" y1="7298.56" x2="1498.58" y2="7298.99"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1732.98,7303.59 1748.97,7298.56 1748.97,7298.56 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1622.1" y="7285.87">checkForUpdates()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1285.83" y="7256.99" width="212.75" height="84" rx="20" ry="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1285.83" y="7256.99" width="212.75" height="84" rx="20" ry="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1392.21" y="7278.89">
+      <tspan x="1392.21" y="7278.89">FTU done</tspan>
+      <tspan x="1392.21" y="7294.89">gaia.system.checkForUpdates</tspan>
+      <tspan x="1392.21" y="7310.89">is set 'true'</tspan>
+      <tspan x="1392.21" y="7326.89">in bootstrap.js</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="2651.66" y="7162.51" width="333.4" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2651.66" y="7162.51" width="333.4" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="2818.36" y="7178.51">&lt;&lt;nsIUpdatePrompt&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="2818.36" y="7197.51">UpdatePrompt</text>
+    <rect style="fill: #ffffff" x="2651.66" y="7206.51" width="333.4" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2651.66" y="7206.51" width="333.4" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="2654.66" y="7220.51">+_updateCheckListener: UpdateCheckListener</text>
+    <rect style="fill: #ffffff" x="2651.66" y="7226.51" width="333.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2651.66" y="7226.51" width="333.4" height="8"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="2818.36" y1="7234.51" x2="2818.36" y2="7308.31"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="2818.36" y1="7408.31" x2="2818.36" y2="7504.37"/>
+    <rect style="fill: #ffffff" x="2811.36" y="7308.31" width="14" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2811.36" y="7308.31" width="14" height="100"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="2811.36" y1="7308.31" x2="1762.97" y2="7308.56"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2795.36,7313.32 2811.36,7308.31 2811.36,7308.31 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1953.91" y="7293.45">handleEvent("force-update-check")</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="3368.66" y="7164.57" width="210.2" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="3368.66" y="7164.57" width="210.2" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="3473.76" y="7180.57">&lt;&lt;nsIUpdateCheckListener&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="3473.76" y="7199.57">UpdateCheckListener</text>
+    <rect style="fill: #ffffff" x="3368.66" y="7208.57" width="210.2" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="3368.66" y="7208.57" width="210.2" height="8"/>
+    <rect style="fill: #ffffff" x="3368.66" y="7216.57" width="210.2" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="3368.66" y="7216.57" width="210.2" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="3371.66" y="7230.57">+onError()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="3371.66" y="7246.57">+onCheckComplete()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="3371.66" y="7262.57">+onProgress()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3342.48,7216.57 3169.35,7216.57 3169.35,7216.51 2985.06,7216.51 "/>
+    <polygon style="fill: #ffffff" points="3367.65,7216.57 3353.65,7221.37 3339.65,7216.57 3353.65,7211.77 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3367.65,7216.57 3353.65,7221.37 3339.65,7216.57 3353.65,7211.77 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="3041.03" y="7268.16" width="210.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="3041.03" y="7268.16" width="210.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="3146.13" y="7287.16">Checker</text>
+    <rect style="fill: #ffffff" x="3041.03" y="7296.16" width="210.2" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="3041.03" y="7296.16" width="210.2" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="3044.03" y="7310.16">+_callback</text>
+    <rect style="fill: #ffffff" x="3041.03" y="7316.16" width="210.2" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="3041.03" y="7316.16" width="210.2" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="3044.03" y="7330.16">+&lt;&lt;error&gt;&gt; onError()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="3044.03" y="7346.16">+&lt;&lt;load&gt;&gt; onLoad()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="3044.03" y="7362.16">+&lt;&lt;progress&gt;&gt; onProgress()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3342.48,7216.57 3302.44,7216.57 3302.44,7306.16 3251.23,7306.16 "/>
+    <polygon style="fill: #ffffff" points="3367.65,7216.57 3353.65,7221.37 3339.65,7216.57 3353.65,7211.77 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3367.65,7216.57 3353.65,7221.37 3339.65,7216.57 3353.65,7211.77 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="3146.13" y1="7368.16" x2="3146.13" y2="7397.79"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="3146.13" y1="7547.79" x2="3146.13" y2="7573.63"/>
+    <rect style="fill: #ffffff" x="3139.13" y="7397.79" width="14" height="150"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="3139.13" y="7397.79" width="14" height="150"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="3122.13" y1="7397.82" x2="2825.36" y2="7398.31"/>
+    <polygon style="fill: #000000" points="3122.13,7402.82 3138.13,7397.8 3122.12,7392.82 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3122.13,7402.82 3138.13,7397.8 3122.12,7392.82 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="2932.54" y="7377.74">checkForUpdates(force=true)</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="3023.05" y1="7318.22" x2="2825.36" y2="7318.31"/>
+    <polygon style="fill: #000000" points="3023.05,7323.22 3039.05,7318.21 3023.05,7313.22 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3023.05,7323.22 3039.05,7318.21 3023.05,7313.22 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="2926.51" y="7305.66">&lt;&lt;create&gt;&gt;</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="2818.36" y1="7408.31" x2="2818.36" y2="7447.84"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="2818.36" y1="7587.84" x2="2818.36" y2="7597.05"/>
+    <rect style="fill: #ffffff" x="2811.36" y="7447.84" width="14" height="140"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2811.36" y="7447.84" width="14" height="140"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="2825.36" y1="7447.84" x2="3139.13" y2="7447.79"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2841.35,7442.84 2825.36,7447.84 2825.36,7447.84 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="2979.88" y="7438.05">Notify "update-check-start"</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3343.49,7226.57 3314.2,7226.57 3314.2,7326.16 3251.23,7326.16 "/>
+    <polygon style="fill: #ffffff" points="3368.66,7226.57 3354.66,7231.37 3340.66,7226.57 3354.66,7221.77 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3368.66,7226.57 3354.66,7231.37 3340.66,7226.57 3354.66,7221.77 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3343.49,7242.57 3327.04,7242.57 3327.04,7342.16 3251.23,7342.16 "/>
+    <polygon style="fill: #ffffff" points="3368.66,7242.57 3354.66,7247.37 3340.66,7242.57 3354.66,7237.77 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3368.66,7242.57 3354.66,7247.37 3340.66,7242.57 3354.66,7237.77 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3343.49,7258.57 3338.96,7258.57 3338.96,7358.16 3251.23,7358.16 "/>
+    <polygon style="fill: #ffffff" points="3368.66,7258.57 3354.66,7263.37 3340.66,7258.57 3354.66,7253.77 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3368.66,7258.57 3354.66,7263.37 3340.66,7258.57 3354.66,7253.77 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="3349" y="7475.73" width="162.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="3349" y="7475.73" width="162.6" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="3430.3" y="7494.73">XMLHttpRequest</text>
+    <rect style="fill: #ffffff" x="3349" y="7503.73" width="162.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="3349" y="7503.73" width="162.6" height="8"/>
+    <rect style="fill: #ffffff" x="3349" y="7511.73" width="162.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="3349" y="7511.73" width="162.6" height="8"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="3331.01" y1="7497.75" x2="3153.13" y2="7497.79"/>
+    <polygon style="fill: #000000" points="3331.01,7502.75 3347.01,7497.75 3331.01,7492.75 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3331.01,7502.75 3347.01,7497.75 3331.01,7492.75 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="3252.22" y="7481.27">&lt;&lt;create&gt;&gt;</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #0000ff" points="3430.3,7474.72 3430.3,7380.15 3473.76,7380.15 3473.76,7286.57 "/>
+    <polygon style="fill: #0000ff" points="3478.76,7286.57 3473.76,7270.57 3468.76,7286.57 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #0000ff" points="3478.76,7286.57 3473.76,7270.57 3468.76,7286.57 "/>
+    <text font-size="12.7998" style="fill: #0000ff;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="3467.44" y="7400.99">
+      <tspan x="3467.44" y="7400.99">callbacks</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="2847.44,7481.75 3007.44,7481.75 3019.44,7493.75 3019.44,7515.75 2847.44,7515.75 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2847.44,7481.75 3007.44,7481.75 3019.44,7493.75 3019.44,7515.75 2847.44,7515.75 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="3007.44,7481.75 3007.44,7493.75 3019.44,7493.75 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="2854.44" y="7506.65">
+      <tspan x="2854.44" y="7506.65">onUpdateCheckStart()</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="2895.21" y1="7480.75" x2="2825.36" y2="7447.84"/>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="2451.76" y1="7187.71" x2="2451.76" y2="7458.23"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="2451.76" y1="7518.23" x2="2451.76" y2="7678.37"/>
+    <rect style="fill: #ffffff" x="2444.76" y="7458.23" width="14" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2444.76" y="7458.23" width="14" height="60"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="2458.76" y1="7458.23" x2="2811.36" y2="7457.84"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2474.76,7453.21 2458.76,7458.23 2458.76,7458.23 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="2643.23" y="7450.67">navigator.mozApps.mgmt.getAll()</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="2811.36" y1="7517.84" x2="2458.76" y2="7518.23"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2795.36,7522.86 2811.36,7517.84 2811.36,7517.84 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="2635.06" y="7528.04">onsuccess</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="2114.49" y1="7170.07" x2="2114.49" y2="7548.45"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="2114.49" y1="7588.45" x2="2114.49" y2="7671.24"/>
+    <rect style="fill: #ffffff" x="2107.49" y="7548.45" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2107.49" y="7548.45" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="2138.49" y1="7548.43" x2="2811.36" y2="7547.84"/>
+    <polygon style="fill: #000000" points="2138.48,7543.43 2122.49,7548.45 2138.49,7553.43 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2138.48,7543.43 2122.49,7548.45 2138.49,7553.43 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="2246.06" y="7534.06">checkForUpdate()</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="2451.76" y1="7518.23" x2="2451.76" y2="7589.64"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="2451.76" y1="7629.64" x2="2451.76" y2="7686.39"/>
+    <rect style="fill: #00ff00" x="2444.76" y="7589.64" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2444.76" y="7589.64" width="14" height="40"/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="2132.6,7470.07 2308,7470.07 2320,7482.07 2320,7504.07 2132.6,7504.07 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2132.6,7470.07 2308,7470.07 2320,7482.07 2320,7504.07 2132.6,7504.07 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="2308,7470.07 2308,7482.07 2320,7482.07 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="2139.6" y="7494.97">
+      <tspan x="2139.6" y="7494.97">for every applications</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="2195.57" y1="7505.07" x2="2121.49" y2="7548.45"/>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="2444.76" y1="7589.64" x2="2121.49" y2="7588.45"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2428.74,7594.59 2444.76,7589.64 2444.76,7589.64 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="2286.06" y="7577.75">"Webapps:CheckForUpdate" --&gt; checkForUpdate()</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="3285.21,7559.45 3452.91,7559.45 3464.91,7571.45 3464.91,7593.45 3285.21,7593.45 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="3285.21,7559.45 3452.91,7559.45 3464.91,7571.45 3464.91,7593.45 3285.21,7593.45 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="3452.91,7559.45 3452.91,7571.45 3464.91,7571.45 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="3292.21" y="7584.35">
+      <tspan x="3292.21" y="7584.35">Used for Gecko update</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="3414.17" y1="7520.72" x2="3387.69" y2="7558.45"/>
+  <g>
+    <rect style="fill: #ffffff" x="2020.31" y="7129.57" width="196.35" height="73"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2020.31" y="7129.57" width="196.35" height="73"/>
+    <rect style="fill: #ffffff" x="2012.31" y="7137.57" width="196.35" height="73"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2012.31" y="7137.57" width="196.35" height="73"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="2110.49" y="7180.47">
+      <tspan x="2110.49" y="7180.47">WebappsApplication</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="2110.49" y="7163.57">&lt;&lt;mozIDOMApplication&gt;&gt;</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="2110.49" y="7200.57">webapps.js</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="2048.96" y1="7183.47" x2="2180.01" y2="7183.47"/>
+  </g>
+</svg>

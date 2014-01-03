@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="97cm" height="39cm" viewBox="790 6402 1930 776" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="916.452" y="6423.12" width="1802.53" height="753.801"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="916.452" y="6423.12" width="1802.53" height="753.801"/>
+    <rect style="fill: #ffffff" x="916.452" y="6403.12" width="81" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="916.452" y="6403.12" width="81" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="918.452" y="6418.12">System App</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1095.66" y="6555.12" width="433.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1095.66" y="6555.12" width="433.5" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1312.41" y="6574.12">UpdateManager</text>
+    <rect style="fill: #ffffff" x="1095.66" y="6583.12" width="433.5" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1095.66" y="6583.12" width="433.5" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1098.66" y="6597.12">+_mgmt: mozIDOMApplicationMgmt = navigator.mozApps.mgmt</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1098.66" y="6613.12">+updatableApps: Array</text>
+    <rect style="fill: #ffffff" x="1095.66" y="6619.12" width="433.5" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1095.66" y="6619.12" width="433.5" height="8"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1312.41" y1="6627.12" x2="1312.41" y2="6659.58"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1312.41" y1="6809.58" x2="1312.41" y2="6850.5"/>
+    <rect style="fill: #ffffff" x="1305.41" y="6659.58" width="14" height="150"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1305.41" y="6659.58" width="14" height="150"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1288.41" y1="6659.55" x2="791.949" y2="6658.75"/>
+    <polygon style="fill: #000000" points="1288.41,6664.55 1304.41,6659.58 1288.42,6654.55 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1288.41,6664.55 1304.41,6659.58 1288.42,6654.55 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="858.657" y="6647.96">init()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1578.95" y="6482.86" width="433.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1578.95" y="6482.86" width="433.5" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1795.7" y="6501.86">WebappsRegistry</text>
+    <rect style="fill: #ffffff" x="1578.95" y="6510.86" width="433.5" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1578.95" y="6510.86" width="433.5" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1581.95" y="6524.86">+_mgmt: mozIDOMApplicationMgmt = WebappsApplicationMgmt</text>
+    <rect style="fill: #ffffff" x="1578.95" y="6530.86" width="433.5" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1578.95" y="6530.86" width="433.5" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1581.95" y="6544.86">+&lt;&lt;getter&gt;&gt; mgmt()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="2068.49" y="6571.32" width="246.95" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2068.49" y="6571.32" width="246.95" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="2191.96" y="6587.32">&lt;&lt;mozIDOMApplicationMgmt&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="2191.96" y="6606.32">WebappsApplicationMgmt</text>
+    <rect style="fill: #ffffff" x="2068.49" y="6615.32" width="246.95" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2068.49" y="6615.32" width="246.95" height="8"/>
+    <rect style="fill: #ffffff" x="2068.49" y="6623.32" width="246.95" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2068.49" y="6623.32" width="246.95" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2043.31,6593.32 2032.97,6593.32 2032.97,6520.86 2012.45,6520.86 "/>
+    <polygon style="fill: #ffffff" points="2068.49,6593.32 2054.49,6598.12 2040.49,6593.32 2054.49,6588.52 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2068.49,6593.32 2054.49,6598.12 2040.49,6593.32 2054.49,6588.52 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="2034.97" y="6557.09"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="2036.49" y="6590.32"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="2016.45" y="6517.86"></text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2043.31,6593.32 1834.52,6593.32 1834.52,6593.12 1529.16,6593.12 "/>
+    <polygon style="fill: #ffffff" points="2068.49,6593.32 2054.49,6598.12 2040.49,6593.32 2054.49,6588.52 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2068.49,6593.32 2054.49,6598.12 2040.49,6593.32 2054.49,6588.52 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1836.52" y="6593.22"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="2036.49" y="6590.32"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1533.16" y="6590.12"></text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="2191.96" y1="6631.32" x2="2191.96" y2="6674.43"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="2191.96" y1="6734.43" x2="2191.96" y2="6897.54"/>
+    <rect style="fill: #ffffff" x="2184.96" y="6674.43" width="14" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2184.96" y="6674.43" width="14" height="60"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="2167.96" y1="6674.43" x2="1319.41" y2="6674.58"/>
+    <polygon style="fill: #000000" points="2167.96,6679.43 2183.96,6674.43 2167.96,6669.43 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2167.96,6679.43 2183.96,6674.43 2167.96,6669.43 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1751.87" y="6665">this._mgmt.getAll()</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1319.41" y1="6674.58" x2="1319.41" y2="6724.71"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1319.41" y1="6764.71" x2="1319.41" y2="6785.64"/>
+    <rect style="fill: #ffffff" x="1312.41" y="6724.71" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1312.41" y="6724.71" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="2508.85" y1="6640.85" x2="2508.85" y2="6684.47"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="2508.85" y1="6724.47" x2="2508.85" y2="6755.22"/>
+    <rect style="fill: #ffffff" x="2501.85" y="6684.47" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2501.85" y="6684.47" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="2501.85" y1="6684.47" x2="2198.96" y2="6684.43"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2485.85,6689.46 2501.85,6684.47 2501.85,6684.47 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="2344.45" y="6675.93">Webapps:GetAll</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="2198.96" y1="6724.43" x2="2501.85" y2="6724.47"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2214.96,6719.43 2198.96,6724.43 2198.96,6724.43 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="2349.46" y="6718.68">Webapps:GetAll:Return:OK</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1343.41" y1="6724.71" x2="2184.96" y2="6724.43"/>
+    <polygon style="fill: #000000" points="1343.41,6719.71 1327.41,6724.71 1343.42,6729.71 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1343.41,6719.71 1327.41,6724.71 1343.42,6729.71 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1747.43" y="6719.56">onsuccess</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1433.6" y1="6817.71" x2="1326.41" y2="6764.71"/>
+    <polygon style="fill: #000000" points="1431.39,6822.19 1447.95,6824.8 1435.82,6813.23 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1431.39,6822.19 1447.95,6824.8 1435.82,6813.23 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1405.72" y="6780.97">&lt;&lt;create&gt;&gt;</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1422.26" y="6826.24" width="356.5" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1422.26" y="6826.24" width="356.5" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1600.51" y="6842.24">&lt;&lt;multiple instances&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1600.51" y="6861.24">AppUpdatable</text>
+    <rect style="fill: #ffffff" x="1422.26" y="6870.24" width="356.5" height="84"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1422.26" y="6870.24" width="356.5" height="84"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1425.26" y="6884.24">+_mgmt: mozIDOMApplicationMgmt</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1425.26" y="6900.24">+app: Object</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1425.26" y="6916.24">+name: string = app name from manifest.webapp</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1425.26" y="6932.24">+size</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1425.26" y="6948.24">+progress = null</text>
+    <rect style="fill: #ffffff" x="1422.26" y="6954.24" width="356.5" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1422.26" y="6954.24" width="356.5" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1425.26" y="6968.24">+availableCallBack()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2043.31,6593.32 1916.63,6593.32 1916.63,6880.24 1778.76,6880.24 "/>
+    <polygon style="fill: #ffffff" points="2068.49,6593.32 2054.49,6598.12 2040.49,6593.32 2054.49,6588.52 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2068.49,6593.32 2054.49,6598.12 2040.49,6593.32 2054.49,6588.52 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1918.63" y="6736.78"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="2036.49" y="6590.32"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1782.76" y="6877.24"></text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1600.51,6800.06 1600.51,6609.12 1529.16,6609.12 "/>
+    <polygon style="fill: #ffffff" points="1600.51,6825.24 1595.71,6811.24 1600.51,6797.24 1605.31,6811.24 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1600.51,6825.24 1595.71,6811.24 1600.51,6797.24 1605.31,6811.24 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1564.84" y="6609.12"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1611.51" y="6821.24">*</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1533.16" y="6606.12">1</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1984.64" y="6922.65" width="196.35" height="73"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1984.64" y="6922.65" width="196.35" height="73"/>
+    <rect style="fill: #ffffff" x="1976.64" y="6930.65" width="196.35" height="73"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1976.64" y="6930.65" width="196.35" height="73"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="2074.81" y="6973.55">
+      <tspan x="2074.81" y="6973.55">WebappsApplication</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="2074.81" y="6956.65">&lt;&lt;mozIDOMApplication&gt;&gt;</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="2074.81" y="6993.65">webapps.js</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="2013.29" y1="6976.55" x2="2144.34" y2="6976.55"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2078.81,6897.48 2078.81,6887.65 1929.29,6887.65 1929.29,6896.24 1778.76,6896.24 "/>
+    <polygon style="fill: #ffffff" points="2078.81,6922.65 2074.01,6908.65 2078.81,6894.65 2083.61,6908.65 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2078.81,6922.65 2074.01,6908.65 2078.81,6894.65 2083.61,6908.65 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="2004.05" y="6887.65"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="2089.81" y="6918.65"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1782.76" y="6893.24"></text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1803.94,6964.24 1814.94,6964.24 1814.94,6963.15 1976.64,6963.15 "/>
+    <polygon style="fill: #ffffff" points="1778.76,6964.24 1792.76,6959.44 1806.76,6964.24 1792.76,6969.04 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1778.76,6964.24 1792.76,6959.44 1806.76,6964.24 1792.76,6969.04 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1816.94" y="6963.7">ondownloadavailable</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1810.76" y="6961.24"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1972.64" y="6960.15"></text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1600.51" y1="6974.24" x2="1600.51" y2="6998.94"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1600.51" y1="7038.94" x2="1600.51" y2="7144.96"/>
+    <rect style="fill: #ffffff" x="1593.51" y="6998.94" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1593.51" y="6998.94" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1600.51" y1="7038.94" x2="1600.51" y2="7076.78"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1600.51" y1="7116.78" x2="1600.51" y2="7156.36"/>
+    <rect style="fill: #ffffff" x="1593.51" y="7076.78" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1593.51" y="7076.78" width="14" height="40"/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="1626.3,7018.26 1817.1,7018.26 1829.1,7030.26 1829.1,7052.26 1626.3,7052.26 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1626.3,7018.26 1817.1,7018.26 1829.1,7030.26 1829.1,7052.26 1626.3,7052.26 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="1817.1,7018.26 1817.1,7030.26 1829.1,7030.26 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1633.3" y="7043.16">
+      <tspan x="1633.3" y="7043.16">if app.downloadAvailable</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1613.93,6993.84 A 12.866,12.866 0 0 0 1600.51,6974.24"/>
+    <polygon style="fill: #000000" points="1609.62,6998.18 1617.32,6990.07 1616.67,6995.62 1620.72,6999.47 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1609.62,6998.18 1617.32,6990.07 1616.67,6995.62 1620.72,6999.47 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1607.51" y="6998.94">
+    <tspan x="1607.51" y="6998.94">    availableCallBack</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="1607.51" y1="6998.94" x2="1668.17" y2="7017.27"/>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1607.51" y="7076.78">
+    <tspan x="1607.51" y="7076.78">   applyUpdate</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1600.51,6974.24 A 76.0199,76.0199 0 0 0 1587.97,7068.85"/>
+    <polygon style="fill: #000000" points="1592.12,7075.04 1581.97,7070.34 1587.44,7069.18 1589.78,7064.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1592.12,7075.04 1581.97,7070.34 1587.44,7069.18 1589.78,7064.1 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="1338.06,7040.96 1551.96,7040.96 1563.96,7052.96 1563.96,7074.96 1338.06,7074.96 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1338.06,7040.96 1551.96,7040.96 1563.96,7052.96 1563.96,7074.96 1338.06,7074.96 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="1551.96,7040.96 1551.96,7052.96 1563.96,7052.96 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1345.06" y="7065.86">
+      <tspan x="1345.06" y="7065.86">if app.readyToApplyDownload</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="1564.96" y1="7073.01" x2="1593.51" y2="7076.78"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="1305.41" y1="6809.58" x2="1220.32" y2="6786.84"/>
+  <g>
+    <rect style="fill: #ffffff" x="2346" y="6568.85" width="325.7" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2346" y="6568.85" width="325.7" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="2508.85" y="6584.85">&lt;&lt;Webapps.jsm&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="2508.85" y="6603.85">DOMApplicationRegistry</text>
+    <rect style="fill: #ffffff" x="2346" y="6612.85" width="325.7" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2346" y="6612.85" width="325.7" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="2349" y="6626.85">+webapps: Object from JSON = webapps.json</text>
+    <rect style="fill: #ffffff" x="2346" y="6632.85" width="325.7" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2346" y="6632.85" width="325.7" height="8"/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="2259.01,6765.33 2449.81,6765.33 2461.81,6777.33 2461.81,6847.33 2259.01,6847.33 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2259.01,6765.33 2449.81,6765.33 2461.81,6777.33 2461.81,6847.33 2259.01,6847.33 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="2449.81,6765.33 2449.81,6777.33 2461.81,6777.33 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="2266.01" y="6790.23">
+      <tspan x="2266.01" y="6790.23">Send for each manifest</tspan>
+      <tspan x="2266.01" y="6806.23">of all applications</tspan>
+      <tspan x="2266.01" y="6822.23">with application objects</tspan>
+      <tspan x="2266.01" y="6838.23">within webapps.json</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="2432.96" y1="6764.34" x2="2501.85" y2="6724.47"/>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2207.16,6963.15 2692.7,6963.15 2692.7,6622.85 2671.7,6622.85 "/>
+    <polygon style="fill: #ffffff" points="2181.99,6963.15 2195.99,6958.35 2209.99,6963.15 2195.99,6967.95 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2181.99,6963.15 2195.99,6958.35 2209.99,6963.15 2195.99,6967.95 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1849.9" y="7090.63" width="130.7" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1849.9" y="7090.63" width="130.7" height="36"/>
+    <rect style="fill: #ffffff" x="1841.9" y="7098.63" width="130.7" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1841.9" y="7098.63" width="130.7" height="36"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1907.25" y="7120.53">
+      <tspan x="1907.25" y="7120.53">manifest.webapp</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="1855.9" y1="7123.53" x2="1966.6" y2="7123.53"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1911.25,7064.45 1911.25,6963.15 1976.64,6963.15 "/>
+    <polygon style="fill: #ffffff" points="1911.25,7089.62 1906.45,7075.62 1911.25,7061.62 1916.05,7075.62 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1911.25,7089.62 1906.45,7075.62 1911.25,7061.62 1916.05,7075.62 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1913.25" y="7026.39">manifest</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="971.58,6735.84 1262.48,6735.84 1274.48,6747.84 1274.48,6785.84 971.58,6785.84 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="971.58,6735.84 1262.48,6735.84 1274.48,6747.84 1274.48,6785.84 971.58,6785.84 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="1262.48,6735.84 1262.48,6747.84 1274.48,6747.84 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="978.58" y="6760.74">
+      <tspan x="978.58" y="6760.74">observe 'gaia.system.checkForUpdates'</tspan>
+      <tspan x="978.58" y="6776.74"> --&gt; checkForUpdates</tspan>
+    </text>
+  </g>
+</svg>

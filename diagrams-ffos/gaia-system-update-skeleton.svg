@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="30cm" height="19cm" viewBox="45 30 595 366" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="46.5" y="51.4" width="592.359" height="343.029"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="46.5" y="51.4" width="592.359" height="343.029"/>
+    <rect style="fill: #ffffff" x="46.5" y="31.4" width="296.6" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="46.5" y="31.4" width="296.6" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="48.5" y="46.4">app://system.gaiamobile.org/index.html</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="468.461,151.466 454.519,151.466 454.519,151.277 429.406,151.277 "/>
+    <polygon style="fill: #ffffff" points="493.632,151.466 479.632,156.266 465.632,151.466 479.632,146.666 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="493.632,151.466 479.632,156.266 465.632,151.466 479.632,146.666 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="456.519" y="151.371"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="461.632" y="148.466"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="433.406" y="148.277"></text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="494.64" y="114.966" width="122.55" height="73"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x="494.64" y="114.966" width="122.55" height="73"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="555.915" y="157.866">
+      <tspan x="555.915" y="157.866">UpdateManager</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="555.915" y="140.966">&lt;&lt;JS Object&gt;&gt;</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="555.915" y="177.966">singleton</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="504.64" y1="160.866" x2="607.19" y2="160.866"/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="515.341" y1="188.897" x2="463.338" y2="236.873"/>
+  <g>
+    <polygon style="fill: #ffffff" points="143.16,237.84 611.16,237.84 623.16,249.84 623.16,383.84 143.16,383.84 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="143.16,237.84 611.16,237.84 623.16,249.84 623.16,383.84 143.16,383.84 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="611.16,237.84 611.16,249.84 623.16,249.84 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="150.16" y="262.74">
+      <tspan x="150.16" y="262.74">defined in update_manager.js</tspan>
+      <tspan x="150.16" y="278.74"></tspan>
+      <tspan x="150.16" y="294.74">window.addEventListener('localized', function startup(evt) {</tspan>
+      <tspan x="150.16" y="310.74">  window.removeEventListener('localized', startup);</tspan>
+      <tspan x="150.16" y="326.74"></tspan>
+      <tspan x="150.16" y="342.74">  UpdateManager.init();</tspan>
+      <tspan x="150.16" y="358.74">});</tspan>
+      <tspan x="150.16" y="374.74"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="62.2" y="81.2769" width="366.2" height="140"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="62.2" y="81.2769" width="366.2" height="140"/>
+    <rect style="fill: #ffffff" x="62.2" y="63.2769" width="30" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="62.2" y="63.2769" width="30" height="18"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="68.2" y="99.1769">
+      <tspan x="68.2" y="99.1769">&lt;html&gt;</tspan>
+      <tspan x="68.2" y="115.177">  &lt;head&gt;</tspan>
+      <tspan x="68.2" y="131.177">    ....</tspan>
+      <tspan x="68.2" y="147.177">    &lt;script defer src="js/update_manager.js"/&gt;</tspan>
+      <tspan x="68.2" y="163.177">    ....</tspan>
+      <tspan x="68.2" y="179.177">  &lt;/head&gt;</tspan>
+      <tspan x="68.2" y="195.177">  ....</tspan>
+      <tspan x="68.2" y="211.177">&lt;/html&gt;</tspan>
+    </text>
+  </g>
+</svg>

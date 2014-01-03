@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="87cm" height="112cm" viewBox="45 30 1735 2240" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="46.5" y="51.4" width="1431.17" height="698.088"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="46.5" y="51.4" width="1431.17" height="698.088"/>
+    <rect style="fill: #ffffff" x="46.5" y="31.4" width="312" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="46.5" y="31.4" width="312" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="48.5" y="46.4">Creating Update objects from updates.xml</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="1759.38" y1="2229.53" x2="1779.12" y2="2268.63"/>
+  <g>
+    <polygon style="fill: #ffffff" points="592.224,81 1098.72,81 1110.72,93 1110.72,115 592.224,115 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="592.224,81 1098.72,81 1110.72,93 1110.72,115 592.224,115 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="1098.72,81 1098.72,93 1110.72,93 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="599.224" y="105.9">
+      <tspan x="599.224" y="105.9">Object "Update" is made from each &lt;update&gt; element in updates.xml</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="56.53,65.88 538.53,65.88 550.53,77.88 550.53,351.991 56.53,351.991 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="56.53,65.88 538.53,65.88 550.53,77.88 550.53,351.991 56.53,351.991 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="538.53,65.88 538.53,77.88 550.53,77.88 "/>
+    <text font-size="11.2889" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="63.53" y="89.38">
+      <tspan x="63.53" y="89.38">updates.xml sample</tspan>
+      <tspan x="63.53" y="103.491"></tspan>
+      <tspan x="63.53" y="117.602">&lt;?xml version="1.0"?&gt;</tspan>
+      <tspan x="63.53" y="131.713"></tspan>
+      <tspan x="63.53" y="145.824">&lt;updates&gt;</tspan>
+      <tspan x="63.53" y="159.936">  &lt;update type="minor" version="1.0.4" extensionVersion="1.0.4" </tspan>
+      <tspan x="63.53" y="174.047">          detailsURL="http://www.foo.com/1.0.4/whatsnew.html"&gt;</tspan>
+      <tspan x="63.53" y="188.158">    &lt;patch type="partial" URL="http://www.foo.com/1.0.4-partial.mar"</tspan>
+      <tspan x="63.53" y="202.269">           hashFunction="" hashValue="" size=""/&gt;</tspan>
+      <tspan x="63.53" y="216.38">    &lt;patch type="complete" URL="http://www.foo.com/1.0.4-complete.mar"</tspan>
+      <tspan x="63.53" y="230.491">           hashFunction="" hashValue="" size=""/&gt;</tspan>
+      <tspan x="63.53" y="244.602">  &lt;/update&gt;</tspan>
+      <tspan x="63.53" y="258.713">  ..</tspan>
+      <tspan x="63.53" y="272.824">  &lt;update type="major" version="1.1.2" extensionVersion="1.1.2"</tspan>
+      <tspan x="63.53" y="286.936">          detailsURL="http://www.foo.com/1.1.2/whatsnew.html"&gt;</tspan>
+      <tspan x="63.53" y="301.047">    &lt;patch type="complete" URL="http://www.foo.com/1.1.2-complete.mar"</tspan>
+      <tspan x="63.53" y="315.158">           hashFunction="" hashValue="" size=""/&gt;</tspan>
+      <tspan x="63.53" y="329.269">  &lt;/update&gt;</tspan>
+      <tspan x="63.53" y="343.38">&lt;/updates&gt;</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="629.348" y="156.04" width="787.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="629.348" y="156.04" width="787.7" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1023.2" y="175.04">Update</text>
+    <rect style="fill: #ffffff" x="629.348" y="184.04" width="787.7" height="372"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="629.348" y="184.04" width="787.7" height="372"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="198.04">+_patches: Array = DOM instances of &lt;patch&gt; elements</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="214.04">+_detailsURL = @detailsURL</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="230.04">+appVersion = @extensionVersion</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="246.04">+installDate: int = @installDate</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="262.04">+isCompleteUpdate: bool = @isCompleteUpdate is presented or not.</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="278.04">+isSecurityUpdate: bool = @isSecurityUpdate is presented or not.</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="294.04">+showNeverForVersion: bool = @showNeverForVersion is presented or not.</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="310.04">+showPrompt: bool = @shotPrompt is presented or not.</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="326.04">+showSurvey: bool = @showSurvey is presented or not.</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="342.04">+displayVersion = @version</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="358.04">+appVersion = @appVersion</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="374.04">+billboardURL = @billboardURL</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="390.04">+buildID = @buildID</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="406.04">+channel = @channel</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="422.04">+displayVersion = @displayVersion</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="438.04">+licenseURL = @licenseURL</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="454.04">+name = @name</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="470.04">+platformVersion = @platformVersion</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="486.04">+previousAppVersion = @previousAppVersion</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="502.04">+serviceURL = @serviceURL</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="518.04">+statusText = @statusText</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="534.04">+type = @type</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="550.04">+_properties: objects = Key/Value pair of every other attributes from update element not listed above</text>
+    <rect style="fill: #ffffff" x="629.348" y="556.04" width="787.7" height="164"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="629.348" y="556.04" width="787.7" height="164"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="570.04">+&lt;&lt;getter&gt;&gt; patchCount()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="586.04">+getPatchAt()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="602.04">+&lt;&lt;getter/setter&gt;&gt; state()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="618.04">+&lt;&lt;getter&gt;&gt; selectedPatch()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="634.04">+&lt;&lt;getter&gt;&gt; detailsURL()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="650.04">+serialize()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="666.04">+setProperty()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="682.04">+getProperty()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="698.04">+deleteProperty()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="632.348" y="714.04">+&lt;&lt;getter&gt;&gt; enumerator()</text>
+  </g>
+</svg>

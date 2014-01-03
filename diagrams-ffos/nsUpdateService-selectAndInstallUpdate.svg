@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="59cm" height="43cm" viewBox="1080 2836 1161 844" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="1081.1" y="2857.87" width="945.857" height="821.195"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1081.1" y="2857.87" width="945.857" height="821.195"/>
+    <rect style="fill: #ffffff" x="1081.1" y="2837.87" width="211.9" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1081.1" y="2837.87" width="211.9" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1083.1" y="2852.87">AUS__selectAndInstallUpdate</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1697.3" y1="2941.64" x2="1697.3" y2="2931.13"/>
+    <polygon style="fill: #000000" points="1692.3,2941.64 1697.3,2957.64 1702.3,2941.64 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1692.3,2941.64 1697.3,2957.64 1702.3,2941.64 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1557.06" y1="3011.28" x2="1591.5" y2="3011.54"/>
+    <polygon style="fill: #000000" points="1557.1,3006.28 1541.06,3011.15 1557.03,3016.28 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1557.1,3006.28 1541.06,3011.15 1557.03,3016.28 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1574.04" y="2990.3">No</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1918.42" y1="3132.71" x2="1802.73" y2="3012.36"/>
+    <polygon style="fill: #000000" points="1914.81,3136.18 1929.5,3144.25 1922.02,3129.25 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1914.81,3136.18 1929.5,3144.25 1922.02,3129.25 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1891.05" y="3067.41">Yes</text>
+  </g>
+  <g>
+    <rect style="fill: #00ff00" x="1898.68" y="3145.96" width="101.45" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1898.68" y="3145.96" width="101.45" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1949.41" y="3168.86">
+      <tspan x="1949.41" y="3168.86">showPrompt</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1335.47" y="2983.36" width="203.6" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1335.47" y="2983.36" width="203.6" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1437.27" y="3006.26">
+      <tspan x="1437.27" y="3006.26">select update to be updated</tspan>
+      <tspan x="1437.27" y="3022.26">(via compare versions)</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="1697.3,2959.64 1802.73,3012.36 1697.3,3065.08 1591.86,3012.36 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1697.3,2959.64 1802.73,3012.36 1697.3,3065.08 1591.86,3012.36 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1697.3" y="3016.26">
+      <tspan x="1697.3" y="3016.26">Active update exists</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1697.3" cy="2903.6" rx="32.3332" ry="26.5608"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1697.3" cy="2903.6" rx="32.3332" ry="26.5608"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1697.3" y="2907.5">
+      <tspan x="1697.3" y="2907.5">Start</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1437.27" y1="3297.56" x2="1437.27" y2="3226.83"/>
+    <polygon style="fill: #000000" points="1432.27,3297.56 1437.27,3313.56 1442.27,3297.56 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1432.27,3297.56 1437.27,3313.56 1442.27,3297.56 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1680.02" y="3215.32">Yes</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="1437.27,3102.17 1552.48,3164.5 1437.27,3226.83 1322.06,3164.5 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1437.27,3102.17 1552.48,3164.5 1437.27,3226.83 1322.06,3164.5 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1437.27" y="3152.4">
+      <tspan x="1437.27" y="3152.4">Preference</tspan>
+      <tspan x="1437.27" y="3168.4">'app.update.enabled'</tspan>
+      <tspan x="1437.27" y="3184.4">is false</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1437.27" y1="3084.17" x2="1437.27" y2="3038.36"/>
+    <polygon style="fill: #000000" points="1432.27,3084.17 1437.27,3100.17 1442.27,3084.17 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1432.27,3084.17 1437.27,3100.17 1442.27,3084.17 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="1697.3,3111.32 1807.66,3166.5 1697.3,3221.68 1586.93,3166.5 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1697.3,3111.32 1807.66,3166.5 1697.3,3221.68 1586.93,3166.5 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1697.3" y="3162.4">
+      <tspan x="1697.3" y="3162.4">Update available</tspan>
+      <tspan x="1697.3" y="3178.4">(has permission)</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1569.63" y1="3165.52" x2="1552.7" y2="3165.39"/>
+    <polygon style="fill: #000000" points="1569.59,3170.52 1585.63,3165.64 1569.67,3160.52 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1569.59,3170.52 1585.63,3165.64 1569.67,3160.52 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1565.9" y="3152.49">No</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1880.69" y1="3165.38" x2="1808.21" y2="3165.82"/>
+    <polygon style="fill: #000000" points="1880.72,3170.38 1896.69,3165.28 1880.66,3160.38 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1880.72,3170.38 1896.69,3165.28 1880.66,3160.38 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1845.31" y="3148.04">No</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="1697.3,3271.43 1783.61,3309.68 1697.3,3347.93 1610.98,3309.68 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1697.3,3271.43 1783.61,3309.68 1697.3,3347.93 1610.98,3309.68 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1697.3" y="3313.58">
+      <tspan x="1697.3" y="3313.58">show prompt</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1697.3" y1="3253.43" x2="1697.3" y2="3222.68"/>
+    <polygon style="fill: #000000" points="1692.3,3253.43 1697.3,3269.43 1702.3,3253.43 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1692.3,3253.43 1697.3,3269.43 1702.3,3253.43 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1720.4" y="3244.85">Yes</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1899.81" y1="3193.43" x2="1735.86" y2="3287.55"/>
+    <polygon style="fill: #000000" points="1902.3,3197.77 1913.69,3185.46 1897.32,3189.09 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1902.3,3197.77 1913.69,3185.46 1897.32,3189.09 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1806.48" y="3219">No</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="1697.3,3398.35 1793.12,3461.02 1697.3,3523.69 1601.47,3461.02 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1697.3,3398.35 1793.12,3461.02 1697.3,3523.69 1601.47,3461.02 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1697.3" y="3448.92">
+      <tspan x="1697.3" y="3448.92">Preference</tspan>
+      <tspan x="1697.3" y="3464.92">'app.update.auto'</tspan>
+      <tspan x="1697.3" y="3480.92">is set</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1921.36" y1="3197.9" x2="1732.12" y2="3420.12"/>
+    <polygon style="fill: #000000" points="1925.17,3201.14 1931.73,3185.71 1917.55,3194.65 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1925.17,3201.14 1931.73,3185.71 1917.55,3194.65 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1790.7" y="3383.39">No</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1697.3" y1="3381.35" x2="1697.3" y2="3347.93"/>
+    <polygon style="fill: #000000" points="1692.3,3381.35 1697.3,3397.35 1702.3,3381.35 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1692.3,3381.35 1697.3,3397.35 1702.3,3381.35 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1716.52" y="3373.73">Yes</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="1437.27,3400.47 1544.38,3459.02 1437.27,3517.56 1330.16,3459.02 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1437.27,3400.47 1544.38,3459.02 1437.27,3517.56 1330.16,3459.02 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1437.27" y="3446.92">
+      <tspan x="1437.27" y="3446.92">Preference</tspan>
+      <tspan x="1437.27" y="3462.92">'app.update.mode'</tspan>
+      <tspan x="1437.27" y="3478.92">is 0</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1561.7" y1="3459.97" x2="1601.18" y2="3460.28"/>
+    <polygon style="fill: #000000" points="1561.74,3454.97 1545.7,3459.85 1561.66,3464.97 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1561.74,3454.97 1545.7,3459.85 1561.66,3464.97 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1579.9" y="3446.48">Yes</text>
+  </g>
+  <g>
+    <rect style="fill: #00ff00" x="1122.66" y="3440.02" width="132.05" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1122.66" y="3440.02" width="132.05" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1188.69" y="3462.92">
+      <tspan x="1188.69" y="3462.92">downloadUpdate</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1272.71" y1="3459.02" x2="1330.16" y2="3459.02"/>
+    <polygon style="fill: #000000" points="1272.71,3454.02 1256.71,3459.02 1272.71,3464.02 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1272.71,3454.02 1256.71,3459.02 1272.71,3464.02 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1292.91" y="3442.78">Yes</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="1437.27,3567.8 1532.11,3612.63 1437.27,3657.46 1342.43,3612.63 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1437.27,3567.8 1532.11,3612.63 1437.27,3657.46 1342.43,3612.63 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1437.27" y="3608.53">
+      <tspan x="1437.27" y="3608.53">add-on has</tspan>
+      <tspan x="1437.27" y="3624.53">version difference</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1437.27" y1="3549.8" x2="1437.27" y2="3518.56"/>
+    <polygon style="fill: #000000" points="1432.27,3549.8 1437.27,3565.8 1442.27,3549.8 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1432.27,3549.8 1437.27,3565.8 1442.27,3549.8 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1454.17" y="3556.86">No</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1626.92" y="3592.34" width="196.4" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1626.92" y="3592.34" width="196.4" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1725.12" y="3615.24">
+      <tspan x="1725.12" y="3615.24">_checkAddonCompatibility</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1608.92" y1="3611.86" x2="1533.11" y2="3612.2"/>
+    <polygon style="fill: #000000" points="1608.94,3616.86 1624.92,3611.79 1608.89,3606.86 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1608.94,3616.86 1624.92,3611.79 1608.89,3606.86 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1582.94" y="3594.56">Yes</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1235.51" y1="3487.95" x2="1395.26" y2="3586.67"/>
+    <polygon style="fill: #000000" points="1238.14,3483.7 1221.9,3479.54 1232.88,3492.21 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1238.14,3483.7 1221.9,3479.54 1232.88,3492.21 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1331.43" y="3531.02">No</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1437.27" cy="3334.19" rx="37.3051" ry="18.6526"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1437.27" cy="3334.19" rx="37.3051" ry="18.6526"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1437.27" y="3338.09">
+      <tspan x="1437.27" y="3338.09">End</tspan>
+    </text>
+  </g>
+</svg>

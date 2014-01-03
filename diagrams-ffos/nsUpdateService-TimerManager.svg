@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="66cm" height="35cm" viewBox="45 30 1305 694" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="46.5" y="51.4" width="1302.58" height="477.153"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="46.5" y="51.4" width="1302.58" height="477.153"/>
+    <rect style="fill: #ffffff" x="46.5" y="31.4" width="358.2" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="46.5" y="31.4" width="358.2" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="48.5" y="46.4">toolkit/mozapps/update/nsUpdateTimerManager.js</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="600.407" y1="414.593" x2="302.479" y2="470.049"/>
+    <polygon style="fill: #000000" points="601.322,419.509 616.136,411.665 599.492,409.678 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="601.322,419.509 616.136,411.665 599.492,409.678 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="545.267,498.488 971.52,498.488 971.52,343.482 950.52,343.482 "/>
+    <polygon style="fill: #ffffff" points="520.095,498.488 534.095,493.688 548.095,498.488 534.095,503.288 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="520.095,498.488 534.095,493.688 548.095,498.488 534.095,503.288 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="973.52" y="420.985"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="552.095" y="495.488"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="954.52" y="340.482"></text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="443.586" y="480.488" width="75.5" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="443.586" y="480.488" width="75.5" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="481.336" y="502.388">
+      <tspan x="481.336" y="502.388">nsITimer</tspan>
+    </text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="453.586" y1="505.388" x2="509.086" y2="505.388"/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 4; stroke: #000000" x1="398.514" y1="319.076" x2="342.602" y2="314.015"/>
+  <g>
+    <polygon style="fill: #ffffff" points="63.8004,263.728 547.2,263.728 559.2,275.728 559.2,361.728 63.8004,361.728 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="63.8004,263.728 547.2,263.728 559.2,275.728 559.2,361.728 63.8004,361.728 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="547.2,263.728 547.2,275.728 559.2,275.728 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="70.8004" y="288.628">
+      <tspan x="70.8004" y="288.628">It won't not work until "profile-after-change" notify arrives.</tspan>
+      <tspan x="70.8004" y="304.628"> Referenced preferences are</tspan>
+      <tspan x="70.8004" y="320.628"> * app.update.timerMinimumDelay</tspan>
+      <tspan x="70.8004" y="336.628"> * app.update.timerFirstInterval</tspan>
+      <tspan x="70.8004" y="352.628"> </tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="617.12" y1="395.482" x2="137.158" y2="421.905"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="601.419,401.354 617.12,395.482 617.12,395.482 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="190.16" y="391.79" width="163.6" height="86"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="190.16" y="391.79" width="163.6" height="86"/>
+    <rect style="fill: #ffffff" x="170.16" y="413.79" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="170.16" y="413.79" width="40" height="14"/>
+    <rect style="fill: #ffffff" x="170.16" y="441.79" width="40" height="14"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="170.16" y="441.79" width="40" height="14"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="218.16" y="417.69">&lt;&lt;observer&gt;&gt;</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="218.16" y="433.69">
+      <tspan x="218.16" y="433.69">profile-after-change</tspan>
+      <tspan x="218.16" y="449.69">xpcom-shutdown</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="1135.82,223.22 1135.82,254.729 783.82,254.729 783.82,288.474 "/>
+    <polygon style="fill: #ffffff" points="1143.82,223.22 1135.82,207.22 1127.82,223.22 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1143.82,223.22 1135.82,207.22 1127.82,223.22 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="783.234,223.223 783.234,254.731 783.82,254.731 783.82,288.474 "/>
+    <polygon style="fill: #ffffff" points="791.234,223.223 783.234,207.223 775.234,223.223 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="791.234,223.223 783.234,207.223 775.234,223.223 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="411.904,223.22 411.904,254.729 783.82,254.729 783.82,288.474 "/>
+    <polygon style="fill: #ffffff" points="419.904,223.22 411.904,207.22 403.904,223.22 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="419.904,223.22 411.904,207.22 403.904,223.22 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="938.316" y="115.978" width="395" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="938.316" y="115.978" width="395" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1135.82" y="131.978">&lt;&lt;interface&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1135.82" y="150.978">nsIObserver</text>
+    <rect style="fill: #ffffff" x="938.316" y="159.978" width="395" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="938.316" y="159.978" width="395" height="8"/>
+    <rect style="fill: #ffffff" x="938.316" y="167.978" width="395" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="938.316" y="167.978" width="395" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="941.316" y="181.978">+observe(in aSubject:nsISupports,in aTopic:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="941.316" y="197.978">         in aData:wstring)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="678.134" y="131.978" width="210.2" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="678.134" y="131.978" width="210.2" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="783.234" y="147.978">&lt;&lt;interface&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="783.234" y="166.978">nsITimerCallback</text>
+    <rect style="fill: #ffffff" x="678.134" y="175.978" width="210.2" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="678.134" y="175.978" width="210.2" height="8"/>
+    <rect style="fill: #ffffff" x="678.134" y="183.978" width="210.2" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="678.134" y="183.978" width="210.2" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="681.134" y="197.978">+notify(in timer:nsITimer)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="183.604" y="101.978" width="456.6" height="58"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="183.604" y="101.978" width="456.6" height="58"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="411.904" y="117.978">&lt;&lt;interface&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="411.904" y="136.978">nsIUpdateTimerManager</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="411.904" y="152.478">toolkit/mozapps/update/nsIUpdateTimerManager.idl</text>
+    <rect style="fill: #ffffff" x="183.604" y="159.978" width="456.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="183.604" y="159.978" width="456.6" height="8"/>
+    <rect style="fill: #ffffff" x="183.604" y="167.978" width="456.6" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="183.604" y="167.978" width="456.6" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="186.604" y="181.978">+registerTimer(in id:AString,in callback:nsITimerCallback,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="186.604" y="197.978">               in interval:unsigned long)</text>
+  </g>
+  <g>
+    <rect style="fill: #00ff00" x="617.12" y="289.482" width="333.4" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="617.12" y="289.482" width="333.4" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="783.82" y="305.482">&lt;&lt;@mozilla.org/updates/timer-manager;1&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="783.82" y="324.482">TimerManager</text>
+    <rect style="fill: #00ff00" x="617.12" y="333.482" width="333.4" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="617.12" y="333.482" width="333.4" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="620.12" y="347.482">+_timer: nsITimer = @mozilla.org/timer;1</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="620.12" y="363.482">+_timers: object</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="620.12" y="379.482">+_timerMinimumDelay: integer = 120 seconds</text>
+    <rect style="fill: #00ff00" x="617.12" y="385.482" width="333.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="617.12" y="385.482" width="333.4" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="620.12" y="399.482">+observe()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="620.12" y="415.482">+notify()</text>
+  </g>
+</svg>
